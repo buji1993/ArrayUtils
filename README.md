@@ -1,4 +1,7 @@
 # arrayutils
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ah-yu/arrayutils.svg)](https://greenkeeper.io/)
+
 lightweight package for operating Array by javascript
 
 ## API
